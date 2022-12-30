@@ -4,4 +4,5 @@ This is Java-Based desktop application that was built over the course of a semes
 
 The team were
 atharva helaskar
-Umang Shukla
+Umang kulkarni
+
